@@ -5,7 +5,7 @@ tags: navItem
 ---
 <body class="about_warpper">
         <div class="aboutme_info">
-            <div class="aboutme_pic"><img src="images/default.jpeg" alt="default">
+            <div class="aboutme_pic"><img src="/images/default.jpeg" alt="default">
             </div>
             <div class="aboutme_name">
             <h4 >Name: Dingyu Wang</h4>

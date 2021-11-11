@@ -15,7 +15,7 @@ tags: navItem
                     </p>
                 </div>
             </div>
-            <div class="hello_pic"><img src="images/default.jpeg" alt="default image"></div>
+            <div class="hello_pic"><img src="/images/default.jpeg" alt="default image"></div>
             <div class="intro_mywork">
                 <p>
                 <h1>Some of My Work</h1>
