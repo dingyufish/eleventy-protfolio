@@ -1,13 +1,9 @@
 <nav>
-  <ul role="list">
-    {% for navItem in collections.navItem %}
-    <li>
-      <a 
-        {% if navItem.url === page.url %}aria-current="page"{% endif %} 
-        href="{{ navItem.url }}">
-          {{ navItem.data.title }}
-      </a>
-    </li>
-    {%- endfor %}
-  </ul>
+        <ul class="navbar">
+            <li class="nav_logo"><a href="index.html">Logo</a></li>
+            <li class="nav_home"><a href="index.html">Home</a></li>
+            <li class="nav_about"><a href="about.html">About</a></li>
+            <li class="nav_work"><a href="work.html">Work</a></li>
+            <li class="nav_contact"><a>Contact Me</a></li>
+        </ul>
 </nav>
