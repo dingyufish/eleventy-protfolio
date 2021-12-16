@@ -399,8 +399,9 @@ font-family: sans-serif;
 
 /* Style the links inside the navigation bar */
 .topnav ul li{
-float: left;
+/* float: left; */
 text-align: center;
+list-style-type: none;
 }
 
 .topnav a {

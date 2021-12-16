@@ -7,7 +7,7 @@ tags: navItem
         <h1 class="hello_title">Hi! I am Dingyu</h1>
         <h2>Your Future Web & Graphic Designer</h2>
         <div class="picding"><img src="/images/DingyuPhoto.png" alt="Girl with jacket"></div>
-        <h2>Get Know More About Me --></h2>
+        <h2><a href="/about/">Get Know More About Me --></a></h2>
     </div>
 
 <div class="intro_mywork">
@@ -20,7 +20,7 @@ tags: navItem
         <div class="card1content">
         <p >This is intorduction of my graphic design. Art is most attractive things in this world. And what’s different betweent art and design. 
 I think design is a effact way to express your idea or you thouht about this world.</p>
-        <p class="more-mywork">More about my work--></p>
+        <p class="more-mywork"><a href="/work/">More about my work--></a></p>
         </div>
     </div>
        <div class="card1">
@@ -29,7 +29,7 @@ I think design is a effact way to express your idea or you thouht about this wor
         <div class="card1content">
         <p >This is intorduction of my graphic design. Art is most attractive things in this world. And what’s different betweent art and design. 
 I think design is a effact way to express your idea or you thouht about this world.</p>
-        <p class="more-mywork">More about my work--></p>
+        <p class="more-mywork"><a href="/work/">More about my work--></a></p>
         </div>
     </div>
 
