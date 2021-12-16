@@ -4,10 +4,17 @@
   background-color: #023E73;
   overflow: hidden;
 }
+ul{
+  list-style-type: none;
+
+}
+li{
+
+}
 
 /* Remove default list styling: remove bullet points from the list and remove default margin */
 .topnav ul{
-list-style-type:none;
+/* list-style-type:none; */
 margin:0;
 padding: 0; 
 }
@@ -79,6 +86,7 @@ font-size: 20px;
   text-align: left;
 }
 }
+
 
 /* * ==================================
    Responsive Styling and Layout
