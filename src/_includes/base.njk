@@ -10,15 +10,21 @@ siteName: Ding'site
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500;600;700&family=Fira+Sans&display=swap" rel="stylesheet"> 
     <title>{{siteName}} | {{ title }}</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
-<body calss="home">
-</body>
+{# <body calss="home">
+</body> #}
+<div class="left-sidebar" contenteditable></div>
+<main>
 
   {{ content | safe }}
-
+  </main>
+ <div class="right-sidebar" contenteditable></div>
   <footer>
     <div>
       <p>&copy; {{ pkg.author }}</p>

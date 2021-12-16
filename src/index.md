@@ -3,80 +3,45 @@ title: Home
 layout: base.njk
 tags: navItem
 ---
- <div class="home_warpper">
-        <div class="hello_header">
-            <h1 class="hello_title">Hello! I am Dingyu</h1>
-            <div class="hello_box"></div>
-            <div class="hello_box2">
-                <div class="hello_content">
-                    <p>
-                    <h2>A Future Web Designer & Graphic Designer</h2>
-                    <h2>Get Know More About Me --></h2>
-                    </p>
-                </div>
-            </div>
-            <div class="hello_pic"><img src="/images/default.jpeg" alt="default image"></div>
-            <div class="intro_mywork">
-                <p>
-                <h1>Some of My Work</h1>
-                </p>
-            </div>
-        </div>
-        <section class="home_workitem">
-            <div class="work-itme1">
-           <div class="workitme_content1"></div>
-                <h4>Graphic Design</h4>
-                <p>
-                    multi-nodal Chinese population
-                    distribution. These Chinese are predominantly first
-                    generation immigrants or the children of post-1965
-                    immigrants, and more and more of them are living
-                    outside traditional Chinatowns. The suburban
-                    Chinese population of cities such as San Francisco,
-                    Los Angeles, and New York has grown
-                    tremendously. To understand this distribution we
-                    must focus not only on the geography of the United
-                    States, but on the culture of and the links to regions
-                    in China, Hong
-                </p>
-            </div>
-            <div class="work1_itme">
-                <div class="workitme_content2">
-                <h4>Project</h4>
-                <p>
-                    multi-nodal Chinese population
-                    distribution. These Chinese are predominantly first
-                    generation immigrants or the children of post-1965
-                    immigrants, and more and more of them are living
-                    outside traditional Chinatowns. The suburban
-                    Chinese population of cities such as San Francisco,
-                    Los Angeles, and New York has grown
-                    tremendously.
-                </p>
-            </div>
-            </div>
-        </section>
-        <div class="hello_contactme">
-            <h1 id="contactme">Contact Me</h1>
-            <div class="media_1">
-                <div class="meidapic"></div>
-                <p>
-                    Inlike
-                </p>
-            </div>
-            <div class="media_2">
-                <div class="meidapic"></div>
-                <p>
-                    Instagram
-                </p>
-            </div>
-            <div class="media_3">
-                <div class="meidapic"></div>
-                <p>
-                    Facebook
-                </p>
-            </div>
-            <div class="media_pic">
-            </div>
+ <div class="home_intro">
+        <h1 class="hello_title">Hi! I am Dingyu</h1>
+        <h2>Your Future Web & Graphic Designer</h2>
+        <div class="picding"><img src="/images/DingyuPhoto.png" alt="Girl with jacket"></div>
+        <h2>Get Know More About Me --></h2>
+    </div>
+
+<div class="intro_mywork">
+        <h1 class="mywork_title" > Some of My Work</h1>
+    </div>
+
+<div class="card1">
+        <h1 class="card1title">Graphic Design</h1>
+        <div class="card1image"><img src="/images/default.jpeg" alt=""> </div>
+        <div class="card1content">
+        <p >This is intorduction of my graphic design. Art is most attractive things in this world. And what’s different betweent art and design. 
+I think design is a effact way to express your idea or you thouht about this world.</p>
+        <p class="more-mywork">More about my work--></p>
         </div>
     </div>
+       <div class="card1">
+        <h1 class="card1title">Project</h1>
+        <div class="card1image"><img src="images/default.jpeg" alt=""> </div>
+        <div class="card1content">
+        <p >This is intorduction of my graphic design. Art is most attractive things in this world. And what’s different betweent art and design. 
+I think design is a effact way to express your idea or you thouht about this world.</p>
+        <p class="more-mywork">More about my work--></p>
+        </div>
+    </div>
+
+ <div class="hello_contactme">
+         <div class="contact-left">
+            <div class="fishicon"><img src="images/fishicon.png" alt="" ></div>
+            <div class="bluedot"></div>
+          </div>
+         <div class="contact-right">
+        
+ <h1 class="contactme">Contact Me</h1>
+         </div>
+
+           
+</div>
