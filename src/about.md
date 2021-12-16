@@ -14,5 +14,3 @@ tags: navItem
                 I think design is a effact way to express your idea or you thouht about this world.
                 Design is the my most passtion about.</p>
         </div>
-
-</div>
