@@ -9,7 +9,7 @@ tags: navItem
     <div class="home_intro">
         <h1 class="hello_title">Hi! I am Dingyu</h1>
         <h2>Your Future Web & Graphic Designer</h2>
-        <div class="picding"><img src="images/DingyuPhoto.png" alt="Girl in a jacket" width="500" height="600"></div>
+        <div class="picding"><img src="/images/DingyuPhoto.png" alt="Girl in a jacket" width="500" height="600"></div>
         <h2><a href="/about.html">Get Know More About Me --></a></h2>
     </div>
 <div class="intro_mywork">

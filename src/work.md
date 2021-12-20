@@ -19,7 +19,7 @@ tags: navItem
             sunflower, growing in different directions. 
             Blue bottle and pink background form a soft contrast.</h3>
             <div class="img_work">
-                <img src="images/flower.png" alt="default">
+                <img src="/images/flower.png" alt="default">
             </div>
         </section>
 <section class="work_2">
@@ -30,7 +30,7 @@ tags: navItem
             and the highlight shadows in the form of color block make objects more stereo.</h3>
             </p>
             <div class="img_work">
-                <img src="images/fruitbowlWithFruit.png" alt="fruitbow">
+                <img src="/images/fruitbowlWithFruit.png" alt="fruitbow">
             </div>
         </section>
 </section>
@@ -60,7 +60,7 @@ tags: navItem
               the blackboard, or user can create a classroom by themselves.  </h4>
             </p>
             <div class="img_work">
-                <img src="images/2021-12-19 14.07.47.png" alt="default">
+                <img src="/images/2021-12-19 14.07.47.png" alt="default">
             </div>
         </section>
     </section>
